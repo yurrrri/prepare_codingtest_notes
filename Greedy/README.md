@@ -10,3 +10,7 @@ greedy : 탐욕스러운 -> 탐욕법으로 부르기도한다.
 **[이코테 예제 3-1) 거스름돈](https://github.com/yurrrri/python_algorithm/blob/main/Greedy/greedy_1.py)**
 
 **[이코테 예제 3-2) 큰 수의 법칙](https://github.com/yurrrri/python_algorithm/blob/main/Greedy/greedy_2.py)**
+
+**[이코테 예제 3-3) 숫자 카드 게임](https://github.com/yurrrri/python_algorithm/blob/main/Greedy/greedy_3.py)**
+
+**[이코테 예제 3-4) 1이 될 때까지](https://github.com/yurrrri/python_algorithm/blob/main/Greedy/greedy_4.py)**
