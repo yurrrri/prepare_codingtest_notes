@@ -1,2 +1,2 @@
 # python_algorithm
-### [그리디](https://github.com/yurrrri/python_algorithm/tree/main/Greedy)
+파이썬 코테를 위한 꿀팁 & 알고리즘 정리
